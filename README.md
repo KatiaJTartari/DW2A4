@@ -8,6 +8,11 @@ Links do meu GitHub Pages:
 # Instalando-React
 ![image](https://user-images.githubusercontent.com/70042571/149639932-f096a552-c7cc-43fa-bda0-6c563eaa0c01.png)
 
+# ValidaCPF
+Link do meu GitHub Pages:
+* https://katiajtartari.github.io/DW2A4/ValidaCPF/1cpf
+* https://katiajtartari.github.io/DW2A4/ValidaCPF/2cpf
+
 # lampada
 Links do meu GitHub Pages:
 * https://katiajtartari.github.io/DW2A4/lampada/
@@ -20,8 +25,3 @@ Links do meu GitHub Pages:
 # react
 Link do meu GitHub Pages:
 * https://katiajtartari.github.io/DW2A4/react/
-
-# ValidaCPF
-Link do meu GitHub Pages:
-* https://katiajtartari.github.io/DW2A4/ValidaCPF/1cpf
-* https://katiajtartari.github.io/DW2A4/ValidaCPF/2cpf
