@@ -17,3 +17,8 @@ Links do meu GitHub Pages:
 # react
 Link do meu GitHub Pages:
 * https://katiajtartari.github.io/DW2A4/react/
+
+# ValidaCPF
+Link do meu GitHub Pages:
+* https://katiajtartari.github.io/DW2A4/ValidaCPF/1cpf
+* https://katiajtartari.github.io/DW2A4/ValidaCPF/2cpf
