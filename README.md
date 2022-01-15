@@ -2,5 +2,5 @@
 
 # lampada
 Links do meu GitHub Pages:
-*https://katiajtartari.github.io/DW2A4/lampada/
+* https://katiajtartari.github.io/DW2A4/lampada/
 
