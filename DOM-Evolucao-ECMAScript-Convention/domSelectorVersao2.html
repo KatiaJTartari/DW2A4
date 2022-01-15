@@ -1,0 +1,46 @@
+<style>
+    body {
+      font: normal 12pt Arial;
+    }
+  </style>
+  
+  <h2>Seletores</h2>
+  <div id="exemplo">add <strong>input</strong></div>
+  <div class="c">Exemplo <strong>Class 1</strong></div>
+  <div class="c">Exemplo <strong>Class 2</strong></div>
+  <div name="nome">Exemplo <strong>Name</strong></div>
+  <p>
+    <a href="https://tableless.com.br/entendendo-o-dom-document-object-model/">
+      Tableless - DOM</a
+    >
+  </p>
+  <hr />
+  
+  <script>
+    // var id = document.getElementById('exemplo').innerText
+    // var classe = document.getElementsByClassName('c')[0].innerText
+    // var nome = document.getElementsByName('nome')[0]
+    // var h2 = document.getElementsByTagName('h2')[0]
+  
+    var seletor = document.querySelector('#exemplo')
+    seletor.addEventListener('click', () => {
+      let input = document.createElement('input')
+      input.type = 'text'
+  
+      document.body.insertBefore(input, seletor)
+    })
+  
+    seletor.style.color = 'red'
+    seletor.style.background = 'green'
+  
+    // let link = document.querySelector('a')
+    // link.href = 'http://www.ifsp.edu.br'
+    // console.log(link.href)
+  
+    //criar o elemento
+    let hr = document.createElement('hr')
+  
+    //adicionar o elemento na página
+    document.body.insertBefore(hr, seletor)
+  </script>
+  
