@@ -22,3 +22,6 @@ Link do meu GitHub Pages:
 Link do meu GitHub Pages:
 * https://katiajtartari.github.io/DW2A4/ValidaCPF/1cpf
 * https://katiajtartari.github.io/DW2A4/ValidaCPF/2cpf
+
+# Instalando-React
+![image](https://user-images.githubusercontent.com/70042571/149639932-f096a552-c7cc-43fa-bda0-6c563eaa0c01.png)
