@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Teste Javascript</title>
+  <meta charset="UTF-8" />
+</head>
+
+<body>
+  <h1>Acenda a lâmpada</h1>
+  <img src="imagens/apagada.jpg" id="light" onmousemove="changeLight(1)" onmouseout="changeLight(2)"
+    onclick="changeLight(3)" />
+    
+  <script>
+    //A função recebe o parametro type
+    function changeLight(type) {
+      let arq = "imagens/apagada.jpg"
+      //Condicional type
+      if (type == 1) arq = "imagens/acesa.jpg"
+      if (type == 2) arq = "imagens/apagada.jpg"
+      if (type == 3) arq = "imagens/quebrada.jpg"
+      document.getElementById('light').src = arq
+    }
+  </script>
+  
+</body>
+</html>
